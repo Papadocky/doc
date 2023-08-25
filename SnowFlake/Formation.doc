@@ -6,3 +6,19 @@ https://www.youtube.com/@SnowflakeInc
 https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform?tab=Newest
 https://szonnww-aj01488.snowflakecomputing.com/console/login
 https://www.credly.com/users/sign_in
+
+
+Snowflake XML
+https://medium.com/snowflake/working-with-xml-in-snowflake-part-i-8b4eca1c01fa
+https://medium.com/snowflake/working-with-xml-in-snowflake-part-ii-774b4d32399
+https://medium.com/snowflake/working-with-xml-in-snowflake-part-iii-6849fa4ca0ee
+https://medium.com/snowflake/working-with-xml-in-snowflake-part-iv-835c89d97304
+https://medium.com/snowflake/converting-xml-to-json-in-snowflake-using-external-functions-5d92e001347c
+
+
+Copie des logs vers S3 au format .gz:
+https://www.youtube.com/watch?v=JCRj8T2PNMA
+Load le .gz dans une table (je vais pas l'utiliser car je prefere lire directement les datas dans le S3):
+https://docs.snowflake.com/en/user-guide/getting-started-tutorial-copy-into
+Lire les fichiers gz directmeent dans les S3:
+https://medium.com/globant/snowflake-s3-buckets-for-reading-csv-files-2e2a7989df70
